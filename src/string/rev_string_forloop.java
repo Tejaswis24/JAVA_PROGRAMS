@@ -1,6 +1,8 @@
 package string;
 
-public class rev_string_forloop {
+public class rev_string_forloop
+{
+
     public static void main(String [] args)
     {
 
