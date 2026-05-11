@@ -1,4 +1,4 @@
-package string.revstring;
+package string;
 
 public class rev_string_forloop
 {
