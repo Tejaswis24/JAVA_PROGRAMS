@@ -12,7 +12,7 @@ public class ReverseStringAppend {
             reverse.append(str.charAt(i));
         }
 
-        System.out.println("Reversed String: " + reverse);
+        System.out.println("Reversed String:" + reverse);
     }
 
 }
