@@ -1,4 +1,4 @@
-package string;
+package string.revstring;
 import java.util.Scanner;
 
 public class reverseStringScanner {

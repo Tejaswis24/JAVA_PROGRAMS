@@ -1,4 +1,4 @@
-package string;
+package string.revstring;
 
 public class ReverseStringBuilder {
     public static void main(String[] args) {
